@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
   - [KS Forecast](https://github.com/kspencer19/KS_Forecast)
-  - [My First Pet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [My First Pet](https://github.com/kspencer19/MyFirstPet)
   - [KeyPressReporter](https://github.com/kspencer19/KeypressReporter)
 
 
